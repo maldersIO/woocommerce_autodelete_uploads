@@ -1,4 +1,3 @@
-<h2># Plugin-Starter<h2><br>
+<h2># WooCommerce Auto-Delete Uploads<h2><br>
 <hr>
-<p>FreshySites Plugin Starter - Template Repo</p>
-<a href="https://github.com/FreshyMichael/Plugin-Starter/generate">Use this template</a>
+<p>Use a system like easycron.com to setup cron to hit this file once per mintute, to automatically delete uploads older than 7 days. </p>
